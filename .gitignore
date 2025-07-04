@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+checkpoints/
+gemma_function_calling_and_thinking/
 # Distribution / packaging
 .Python
 build/
